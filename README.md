@@ -6,7 +6,7 @@ Script to verify live performance (write/read) of your Nostr relay
 
 ### Clone the repository
 ```
-git clone https://github.com/PastaGringo/NostrRelayPerf.git
+git clone https://github.com/PastaGringo/NostrRelayPerf.git && cd NostrRelayPerf
 ```
 
 ### Install python libraries
