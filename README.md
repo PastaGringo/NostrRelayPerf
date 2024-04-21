@@ -2,6 +2,8 @@
 
 Script to verify live performance (write/read) of your Nostr relay
 
+[![asciicast](https://asciinema.org/a/655499.png)](https://asciinema.org/a/655499)
+
 ## How to use
 
 ### Clone the repository
